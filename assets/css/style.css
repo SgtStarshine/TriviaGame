@@ -1,0 +1,19 @@
+
+/* Needed to completely center main page content */
+html, body {
+    height: 100%;
+}
+
+.container, .row {
+    height: 100%;
+    min-height: 100%;
+}
+/* --------------------------------------------- */
+
+html {    
+    background: lightgrey;
+}
+
+body {
+    background: grey;
+}
